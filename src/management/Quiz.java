@@ -23,7 +23,7 @@ public class Quiz {
 	}
 
 	public void add_user_option(char c, int revolve) {
-		// TODO Auto-generated method stub
+		
 		ans[revolve - 1] = c;
 
 	}
